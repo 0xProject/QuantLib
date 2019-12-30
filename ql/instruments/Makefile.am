@@ -56,6 +56,7 @@ this_include_HEADERS = \
     stock.hpp \
     swap.hpp \
     swaption.hpp \
+    takertokenoption.hpp \
     vanillaoption.hpp \
 	vanillastorageoption.hpp \
 	vanillaswingoption.hpp \
@@ -113,6 +114,7 @@ cpp_files = \
     stock.cpp \
     swap.cpp \
     swaption.cpp \
+    takertokenoption.cpp \
     vanillaoption.cpp \
     vanillaswap.cpp \
     vanillaswingoption.cpp \
